@@ -1,0 +1,9 @@
+blinker
+flask
+flask-dance
+flask-login
+flask-sqlalchemy
+python-dotenv
+pymysql
+sqlalchemy
+Sqlalchemy-utils
